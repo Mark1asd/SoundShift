@@ -67,3 +67,11 @@ based on recent user interactions while also utilizing a direct feedback interfa
    ---
 
    - If Firebase authentication issues occur, ensure you are logged in by running `firebase login`.
+
+
+<img width="1718" alt="Screenshot 2025-04-23 at 5 51 08 PM" src="https://github.com/user-attachments/assets/f5bb37b9-4923-46b4-abc6-7bd3e7e60081" />
+
+<img width="1697" alt="Screenshot 2025-04-23 at 5 52 03 PM" src="https://github.com/user-attachments/assets/bfc94a53-60ec-4746-af6a-019da9e7538e" />
+
+<img width="797" alt="Screenshot 2025-04-23 at 5 52 42 PM" src="https://github.com/user-attachments/assets/4bbe0b09-eb7e-4071-ae2f-78b5b730e24b" />
+
